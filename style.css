@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script&family=Handjet&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #718e71;
+}
+
+container .btn{
+  text-align: center;
+  background-color:#d3d3c0;
+  color: #718e71;
+}
+
+h1 {
+  color: #d3d3c0;
+  font-family: 'Handjet', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+p{
+  font-family: 'Handjet', cursive;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  flex-direction:row;
+}
+.col-2 {
+   color: #d3d3c0;
+  font-family: 'Handjet', cursive;
+  font-size: 45px;
+}
+#no {
+  background-color: #AA4A44;
+  color: #d3d3c0;
+  font-family: 'Handjet', cursive;
+  font-size: 35px;
+  padding-top: 2px;
+  padding-right: 30px;
+  padding-bottom: 2px;
+  padding-left: 30px;
+}
+h2 {
+  text-align: center;
+  position: relative;
+  top: 40px;
+  vertical-align:bottom;
+}
+.card-text{
+  font-size: 35px;
+  text-align:center; 
+  background-color: #d3d3c0;
+}
+
+.card-body{
+  background-color: #d3d3c0;
+}
+
+.card{
+  background-color: #d3d3c0 !important;
+}
